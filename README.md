@@ -8,6 +8,7 @@
   <a href="https://endeavouros.com/"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siEndeavouros&subtitle=USE+EOS+BTW&size=square&rounded=24" alt="EndeavourOS"/></a>
   <a href="https://hyprland.org/"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siHyprland&subtitle=Hyprland&size=square&rounded=24" alt="Hyprland"/></a>
   <a href="https://www.qemu.org"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siQemu&subtitle=VM&size=square&rounded=24" alt="QEMU"/></a>
+  <a href="https://rog.asus.com/"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siRepublicofgamers&subtitle=ROG&size=square&rounded=24" alt="Republic of Gamers"/></a>
 </div>
 
 # <p align="center">💻 Languages & Scripting</p>
@@ -18,14 +19,3 @@
   <a href="https://golang.org/"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siGo&subtitle=Golang&size=square&rounded=24" alt="Go"/></a>
   <a href="https://cmake.org/"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siCmake&subtitle=CMake&size=square&rounded=24" alt="CMake"/></a>
 </div>
-
-# <p align="center">📊 GitHub Stats</p>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bbuddha&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbuddha&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
-</div>
-
----
-
-<p align="center">💡 <em>"Security is not a product, but a process"</em> - Bruce Schneier</p>
