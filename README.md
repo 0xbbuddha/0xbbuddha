@@ -2,17 +2,12 @@
 
 <!-- Badges Bentos: https://bentos.jkominovic.dev/ -->
 
-<div align="center">
-  <a href="https://github.com/bbuddha"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siGithub&subtitle=bbuddha&size=square&rounded=24" alt="bbuddha GitHub"/></a>
-  <a href="https://linkedin.com/in/your-profile"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siLinkedin&subtitle=LinkedIn&size=square&rounded=24" alt="LinkedIn"/></a>
-  <a href="https://discord.com/"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siDiscord&subtitle=Discord&size=square&rounded=24" alt="Discord"/></a>
-</div>
-
-# <p align="center">🛠 My daily environment</p>
+# <p align="center">🖥️ Working Setup</p>
 
 <div align="center">
   <a href="https://endeavouros.com/"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siEndeavouros&subtitle=USE+EOS+BTW&size=square&rounded=24" alt="EndeavourOS"/></a>
   <a href="https://hyprland.org/"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siHyprland&subtitle=Hyprland&size=square&rounded=24" alt="Hyprland"/></a>
+  <a href="https://www.qemu.org"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siQemu&subtitle=VM&size=square&rounded=24" alt="QEMU"/></a>
 </div>
 
 # <p align="center">💻 Languages & Scripting</p>
