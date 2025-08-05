@@ -104,6 +104,11 @@
             border: 1px solid rgba(255, 255, 255, 0.1);
         }
 
+        .stat-card img {
+            width: 100%;
+            height: auto;
+        }
+
         .quote {
             text-align: center;
             font-style: italic;
@@ -260,7 +265,7 @@
                     <img src="https://github-readme-stats.vercel.app/api?username=bbuddha&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats">
                 </div>
                 <div class="stat-card">
-                    <img src="https://github-readme-stats.vercel.app/api/top-langs/?bbuddha=bbuddha&layout=compact&theme=dark&hide_border=true" alt="Top Languages">
+                    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbuddha&layout=compact&theme=dark&hide_border=true" alt="Top Languages">
                 </div>
             </div>
         </section>
