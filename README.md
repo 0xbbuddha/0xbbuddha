@@ -24,23 +24,6 @@
   <a href="https://cmake.org/"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siCmake&subtitle=CMake&size=square&rounded=24" alt="CMake"/></a>
 </div>
 
-# <p align="center">🎯 Cybersecurity Focus</p>
-
-<div align="center">
-  <a href="https://www.kali.org/"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siKalilinux&subtitle=Pentesting&size=square&rounded=24" alt="Penetration Testing"/></a>
-  <a href="https://www.hackerone.com/"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siHackerone&subtitle=Red+Team&size=square&rounded=24" alt="Red Team"/></a>
-  <a href="https://www.virustotal.com/"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siVirustotal&subtitle=Purple+Team&size=square&rounded=24" alt="Purple Team"/></a>
-</div>
-
-# <p align="center">🔧 Favorite Tools</p>
-
-<div align="center">
-  <a href="https://portswigger.net/"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siPortswigger&subtitle=Burp+Suite&size=square&rounded=24" alt="Burp Suite"/></a>
-  <a href="https://www.metasploit.com/"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siMetasploit&subtitle=Metasploit&size=square&rounded=24" alt="Metasploit"/></a>
-  <a href="https://www.wireshark.org/"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siWireshark&subtitle=Wireshark&size=square&rounded=24" alt="Wireshark"/></a>
-  <a href="https://nmap.org/"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siNmap&subtitle=Nmap&size=square&rounded=24" alt="Nmap"/></a>
-</div>
-
 # <p align="center">📊 GitHub Stats</p>
 
 <div align="center">
