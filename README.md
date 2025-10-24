@@ -1,8 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=0xbbuddha;Cybersecurity+Enthusiast;Red+%26+Purple+Team+Specialist;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="img/img1.png" width="100%" height="auto" alt="0xbbuddha Banner"/>
 </div>
-
----
 
 <div align="center">
   
@@ -14,26 +12,98 @@
 
 ---
 
-## 🎯 About Me
+## About Me
+
+<details>
+  <summary>Bash - Name & Identity</summary>
+
+```bash
+#!/bin/bash
+# 0xbbuddha Identity Configuration
+
+USERNAME="0xbbuddha"
+REAL_NAME="Killian PRIN-ABEIL"
+COMPANY="Aukfood"
+SCHOOL="Oteria"
+```
+
+</details>
+
+<details>
+  <summary>Python - Role & Specialization</summary>
 
 ```python
-class CybersecurityStudent:
+class CybersecurityRole:
     def __init__(self):
-        self.name = "0xbbuddha"
-        self.role = "Cybersecurity Student & Researcher"
-        self.specialization = ["Red Team Operations", "Purple Team", "Threat Hunting", "SOC Analysis"]
-        self.interests = ["Penetration Testing", "Malware Analysis", "Incident Response", "Security Automation"]
-        self.current_focus = "Detection Engineering & Threat Intelligence"
-    
-    def say_hi(self):
-        return "🔐 Passionate about cybersecurity and always eager to learn!"
+        self.title = "Cybersecurity Student & Open-Source Contributor"
+        self.specializations = [
+            "Red Team Operations",
+            "Purple Team Analysis", 
+            "Tool Development"
+        ]
 ```
+
+</details>
+
+<details>
+  <summary>Go - Skills & Interests</summary>
+
+```go
+package main
+
+import "fmt"
+
+func main() {
+    skills := map[string][]string{
+        "Programming Languages": {"Bash", "Python", "Go", "CMake"},
+        "Security Tools":        {"Metasploit", "Caido", "Nmap", "Wazuh", "CrowdSec"},
+        "Frameworks":            {"MITRE ATT&CK", "OWASP"},
+        "Current Interests":     {"Penetration Testing", "Malware Analysis", "Tool development"},
+        "Currently Learning":    {"Web3 Security", "DevSecOps", "Pentest Tool Development"},
+    }
+
+    for category, items := range skills {
+        fmt.Printf("%s:\n", category)
+        for _, item := range items {
+            fmt.Printf("  - %s\n", item)
+        }
+        fmt.Println()
+    }
+}
+```
+
+</details>
+
+<details>
+  <summary>CMake - Contact & Links</summary>
+
+```cmake
+# 0xbbuddha Contact Configuration
+cmake_minimum_required(VERSION 3.20)
+project(ContactInfo)
+
+# Contact Information
+set(EMAIL "killian@archimedeos.org")
+set(GITHUB "https://github.com/0xbbuddha")
+set(LINKEDIN "https://www.linkedin.com/in/killianprinabeil/")
+
+# Professional Platforms
+set(TRYHACKME "https://tryhackme.com/p/bouddha")
+set(HACKTHEBOX "https://app.hackthebox.com/profile/1551480")
+set(ROOTME "https://www.root-me.org/0xbbuddha")
+
+# Personal Brand
+set(WEBSITE "https://www.aukfood.fr")
+set(BLOG "https://www.aukfood.fr/nos-actualites/")
+```
+
+</details>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## My Daily Tech Stack & Tools
 
-### 💻 **Operating Systems & Environment**
+### **Operating Systems & Environment**
 <div align="center">
   <a href="https://endeavouros.com/"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siEndeavouros&subtitle=EndeavourOS&size=square&rounded=24" alt="EndeavourOS"/></a>
   <a href="https://hyprland.org/"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siHyprland&subtitle=Hyprland&size=square&rounded=24" alt="Hyprland"/></a>
@@ -41,7 +111,7 @@ class CybersecurityStudent:
   <a href="https://rog.asus.com/"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siRepublicofgamers&subtitle=ROG+Setup&size=square&rounded=24" alt="Republic of Gamers"/></a>
 </div>
 
-### 🔧 **Programming Languages**
+### **Programming Languages**
 <div align="center">
   <a href="https://www.gnu.org/software/bash/"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siGnubash&subtitle=Bash&size=square&rounded=24" alt="Bash"/></a>
   <a href="https://python.org/"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siPython&subtitle=Python&size=square&rounded=24" alt="Python"/></a>
@@ -50,34 +120,3 @@ class CybersecurityStudent:
 </div>
 
 ---
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xbbuddha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xbbuddha&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xbbuddha&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
----
-
-## 🏆 Achievements & Certifications
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=0xbbuddha&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies"/>
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer"/>
-</div>
-
----
-
-<div align="center">
-  <i>🔐 "Security is not a product, but a process" - Bruce Schneier</i>
-</div>
