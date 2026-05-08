@@ -23,8 +23,7 @@
 ---
 
 <p align="center">
-  I like chess, but I'm not particularly good at it... Here is an ASCII tracker
-  of my 100 previous chess.com rapid games.
+  Chess.com rapid rating — last 100 games. Not great, not terrible.
 </p>
 
 ```plaintext
@@ -52,3 +51,7 @@
 
   Chart last updated - 2026-05-08
 ```
+
+<p align="center">
+  I ended up turning Chess.com into a C2 channel — <a href="https://github.com/0xbbuddha/Chess.com">Chess.com C2</a>
+</p>
