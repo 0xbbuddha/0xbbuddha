@@ -36,7 +36,7 @@ def main():
         return
 
     chart = ac.plot(ratings, {"height": 17, "min": min(ratings), "max": max(ratings)})
-    chart_block = f"  Rating Chart:\n{chart}\n\n  Chart last updated - {date.today()}"
+    chart_block = f"{chart}\n\n  Chart last updated - {date.today()}"
 
     with open("README.tpl") as f:
         readme = f.read()
