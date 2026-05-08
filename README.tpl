@@ -44,7 +44,7 @@
 | [Aphrodite](https://github.com/0xbbuddha/Aphrodite) | C2 agent for Mythic 3.0, AES-256/RSA, multiple C2 profiles | `nim` |
 | [Hephaestus](https://github.com/0xbbuddha/Hephaestus) | Wrapper for Aphrodite on Mythic 3.0 | `nim` |
 | [Notion C2](https://github.com/0xbbuddha/Notion) | Mythic C2 profile using Notion as a covert channel (LoTS) | `python` |
-| [Chess.com C2](https://github.com/0xbbuddha/Chess.com) | Mythic C2 profile using Chess.com game moves as a covert channel (LoTS) | `go` |
+| [Chess.com C2](https://github.com/0xbbuddha/Chess.com) | Mythic C2 profile using Chess.com game moves as a covert channel (LoTS) | `python` |
 | [GoFenrir](https://github.com/0xbbuddha/GoFenrir) | Active Directory enumeration and attack framework | `go` |
 | [Ensh](https://github.com/0xbbuddha/Ensh) | Pure-bash Windows protocol library: SMB, NTLM, Kerberos, LDAP | `bash` |
 | [BashHound-CE](https://github.com/0xbbuddha/BashHound-CE) | BloodHound CE data collector, zero compiled dependencies | `bash` |
