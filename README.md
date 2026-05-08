@@ -23,7 +23,7 @@
 ---
 
 <p align="center">
-  Chess.com rapid rating — last 100 games. Not great, not terrible.
+  Chess.com rapid rating - last 100 games. Not great, not terrible.
 </p>
 
 ```plaintext
@@ -53,5 +53,5 @@
 ```
 
 <p align="center">
-  I ended up turning Chess.com into a C2 channel — <a href="https://github.com/0xbbuddha/Chess.com">Chess.com C2</a>
+  I ended up turning Chess.com into a C2 channel - <a href="https://github.com/0xbbuddha/Chess.com">Chess.com C2</a>
 </p>
