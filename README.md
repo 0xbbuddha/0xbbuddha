@@ -81,7 +81,7 @@
   498.61  ┤││
   473.00  ┤╰╯
 
-  Chart last updated - 2026-07-07
+  Chart last updated - 2026-07-08
 ```
 
 <p align="center">
