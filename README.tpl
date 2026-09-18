@@ -2,6 +2,10 @@
 
 [0xbbuddha.fr](https://0xbbuddha.fr) · [@0xbbuddha](https://x.com/0xbbuddha)
 
+Offensive Security [@almond](https://almond.eu/cybersecurity/offensive-security/)
+
+<img src="img/buddha.gif" alt="Buddha - Record of Ragnarok" width="360">
+
 ---
 
 Chess.com rapid rating, last 100 games. Not great, not terrible.
