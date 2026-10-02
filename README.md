@@ -14,7 +14,7 @@ Chess.com rapid rating, last 100 games. Not great, not terrible.
   ♟︎ | Chess.com Rapid Rating Chart
 
   934.00  ┤
-  908.39  ┤                                                               ╭───
+  908.39  ┤                                                               ╭────
   882.78  ┤                                                            ╭──╯
   857.17  ┤                               ╭╮                   ╭───╮╭──╯
   831.56  ┤          ╭╮╭╮         ╭───────╯╰───────────╮╭──────╯   ╰╯
