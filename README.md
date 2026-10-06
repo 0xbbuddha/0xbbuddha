@@ -15,7 +15,7 @@ Chess.com rapid rating, last 100 games. Not great, not terrible.
 
   934.00  ┤
   908.39  ┤                                                               ╭────╮
-  882.78  ┤                                                            ╭──╯    ╰─
+  882.78  ┤                                                            ╭──╯    ╰──
   857.17  ┤                               ╭╮                   ╭───╮╭──╯
   831.56  ┤          ╭╮╭╮         ╭───────╯╰───────────╮╭──────╯   ╰╯
   805.94  ┤         ╭╯╰╯╰╮  ╭─────╯                    ╰╯
@@ -33,7 +33,7 @@ Chess.com rapid rating, last 100 games. Not great, not terrible.
   498.61  ┤││
   473.00  ┤╰╯
 
-  Chart last updated - 2026-10-05
+  Chart last updated - 2026-10-06
 ```
 
 I ended up turning Chess.com into a C2 channel: [Chess.com C2](https://github.com/0xbbuddha/Chess.com)
